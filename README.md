@@ -1,2 +1,7 @@
-# postop_2_preop_mri
-Registration of the postoperative MRI to the preoperative MRI (epilepsy surgery)
+# Postop MRI to Preop MRI
+
+This script performs registration of the postoperative MRI to the preoperative MRI.
+
+This script was designed for a cohort of patients who have had epilepsy surgery.
+
+Major dependency: https://github.com/KCL-BMEIS/niftyreg
